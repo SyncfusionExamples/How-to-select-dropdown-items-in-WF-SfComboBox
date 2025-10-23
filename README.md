@@ -3,9 +3,6 @@ This repository provides a detailed example of how to select items programmatica
 
 The items can be selected programmatically using the CheckedItems property of the DropDownListView. By iterating through the items collection, you can add items to the checked list, ensuring they appear selected in the dropdown. This approach provides flexibility and control over the selection process without requiring manual input.
 
-For more details, refer to the official Syncfusion Knowledge Base article:  
-[How to select DropDown items in SfComboBox](https://wwwnforms-sfcombobox-dropdown-items-programmatically)
-
 ## Code Example (C#)
 ```csharp
 foreach (var selectedItems in this.sfComboBox1.DropDownListView.View.Items.ToList())
@@ -13,3 +10,8 @@ foreach (var selectedItems in this.sfComboBox1.DropDownListView.View.Items.ToLis
     // Programmatically add the checked items
     this.sfComboBox1.DropDownListView.CheckedItems.Add(selectedItems);
 }
+```
+
+## Reference
+For more details, refer to the official Syncfusion Knowledge Base article:  
+[How to select DropDown items in SfComboBox](https://wwwnforms-sfcombobox-dropdown-items-programmatically)
