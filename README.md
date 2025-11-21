@@ -71,3 +71,8 @@ private DataTable GetTable()
 
 ## Reference
 For more details, refer to the official Syncfusion Knowledge Base article: [How to select DropDown items in SfComboBox](https://wwwnforms-sfcombobox-dropdown-items-programmatically)
+
+## Output
+
+![Select items programmatically in SfComboBox](SfComboBox_Select_Dropdownitems
+/Images/select_programmatically_winforms_sfcombobox.png)
