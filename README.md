@@ -74,5 +74,4 @@ For more details, refer to the official Syncfusion Knowledge Base article: [How 
 
 ## Output
 
-![Select items programmatically in SfComboBox](SfComboBox_Select_Dropdownitems
-/Images/select_programmatically_winforms_sfcombobox.png)
+![Select items programmatically in SfComboBox](SfComboBox_Select_Dropdownitems/Images/select_programmatically_winforms_sfcombobox.png)
